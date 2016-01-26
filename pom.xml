@@ -19,6 +19,7 @@
 		<module>../falsework-cache</module>
 		<module>../falsework-data</module>
 		<module>../falsework-mutitenant</module>
+		<module>../falsework-rpc</module>
 		<module>../falsework-demo</module>
 	</modules>
 	
